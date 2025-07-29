@@ -45,8 +45,9 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/hans-cyfrin/git-issue-manage"
-Issues = "https://github.com/hans-cyfrin/git-issue-manage/issues"
+Homepage = "https://github.com/coffeemug0505/git-issue-manage"
+Repository = "https://github.com/coffeemug0505/git-issue-manage"
+Issues = "https://github.com/coffeemug0505/git-issue-manage/issues"
 
 [project.scripts]
 git-issue-manager = "git_issue_manager.cli.main:main"
